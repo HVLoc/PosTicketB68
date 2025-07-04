@@ -45,10 +45,10 @@ packages:
     dependency: "direct main"
     description:
       name: cupertino_icons
-      sha256: e35129dc44c9118cee2a5603506d823bab99c68393879edb440e0090d07586be
+      sha256: d57953e10f9f8327ce64a508a355f0b1ec902193f66288e8cb5070e7c47eeb2d
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.5"
+    version: "1.0.6"
   fake_async:
     dependency: transitive
     description:
@@ -75,10 +75,11 @@ packages:
   get_radio_version_plugin:
     dependency: "direct main"
     description:
-      name: get_radio_version_plugin
-      sha256: e5c6ff638f479bbc8ea3d01f0cf7ce5443efa18793abd189c9726bd12e59cfc0
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: main
+      resolved-ref: "00b8105986ab8a03a65fae776d6dc76c2e50d43b"
+      url: "https://github.com/MinhTung263/get_radio_version_plugin.git"
+    source: git
     version: "1.0.0"
   js:
     dependency: transitive

@@ -75,10 +75,11 @@ packages:
   get_radio_version_plugin:
     dependency: transitive
     description:
-      name: get_radio_version_plugin
-      sha256: e5c6ff638f479bbc8ea3d01f0cf7ce5443efa18793abd189c9726bd12e59cfc0
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: main
+      resolved-ref: "00b8105986ab8a03a65fae776d6dc76c2e50d43b"
+      url: "https://github.com/MinhTung263/get_radio_version_plugin.git"
+    source: git
     version: "1.0.0"
   js:
     dependency: transitive
